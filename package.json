@@ -1,0 +1,30 @@
+{
+  "name": "mytranslate",
+  "version": "1.0.0",
+  "description": "translate command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanbrightup/mytranslate.git"
+  },
+  "author": "城铭",
+  "license": "MIT",
+  "bin": {
+    "fan": "./bin/fan.js"
+  },
+  "bugs": {
+    "url": "https://github.com/fanbrightup/mytranslate/issues"
+  },
+  "homepage": "https://github.com/fanbrightup/mytranslate#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2"
+  }
+}
