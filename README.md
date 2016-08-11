@@ -1,0 +1,2 @@
+# mytranslate
+command translate
